@@ -1,2 +1,1 @@
-# ProjetoSiteGovSP
-Nós alunos do instituto Proa decidimos dar uma repaginada no site do Gov-SP, veja como ficou:
+Projeto feito em grupo no curso PROA, recriação do Design do site do governo de SP.
